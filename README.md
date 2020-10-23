@@ -6,5 +6,5 @@
 
 3. NLP in TensorFlow (To be done)
 
-4. Sequence, Time Series, and Prediction (To be done)
+4. Sequence, Time Series, and Prediction
 
