@@ -4,7 +4,7 @@
 
 2. Convolutional Neural Network in TensorFlow (Completed)
 
-3. NLP in TensorFlow (To be done)
+3. NLP in TensorFlow (Completed)
 
 4. Sequence, Time Series, and Prediction (Completed)
 
